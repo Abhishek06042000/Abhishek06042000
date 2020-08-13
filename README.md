@@ -1,6 +1,6 @@
 ### Hi there 👋
--🔭 I’m currently working on Android Projects.
--🌱 I’m currently learning Android studio.
+-🔭 I’m currently working on Android Projects.\n
+-🌱 I’m currently learning Android studio.\n
 -🤝 Also I’m looking to collaborate on Android App Development Projects. 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Abhishek06042000&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/Abhishek06042000/github-readme-stats)
